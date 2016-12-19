@@ -1,0 +1,373 @@
+permalink,api_path,web_path,name,also_known_as,short_description,description,primary_role,role_company,role_investor,role_group,role_school,founded_on,founded_on_trust_code,is_closed,closed_on,closed_on_trust_code,num_employees_min,num_employees_max,total_funding_usd,stock_exchange,stock_symbol,number_of_investments,homepage_url,created_at,updated_at
+mailchimp,organizations/mailchimp,organization/mailchimp,MailChimp,,"MailChimp, an email marketing service,helps businesses with their marketing newsletters, automated messages, and targeted campaigns.","MailChimp is an email marketing service that helps businesses with their marketing emails and newsletters, automated messages, and targeted campaigns. It also manages their subscriber lists, tracks campaign performances, and offers plugins for other programs.
+
+
+MailChimp helps businesses observe their subscribers’ activities, send automated emails to them based on their behavior and preferences, optimize and target the appropriate audience for each campaign using specific tools, and monitor sales and website activity with revenue reports. Companies can add content and collaborate on campaigns that fit their brand using MailChimp's Email Designer; edit campaigns, collaborate with their teams using MailChimp Editor; send one-to-one messages using Mandrill; collect signups from their tablet using Chimpadeedoo; and access all the services via mobiles using MailChimp Mobile.
+
+
+Utilizing an open API, MailChimp encourages other systems and web applications to integrate with its email marketing engine. It offers integrations to systems such as PayPal, Google Analytics, Shopify, Magento, Salesforce, and more.
+
+
+MailChimp was launched by Dan Kurzius and Ben Chesnut in 2001 and is operated from Georgia, United States.",company,1,,,,2001-01-01,4,,,0,,,0,,,0,http://www.mailchimp.com,1208329789,1454205560
+airbnb,organizations/airbnb,organization/airbnb,Airbnb,,"Airbnb is an online community marketplace for people to list, discover, and book accommodation around the world.","Airbnb is a community marketplace for people to list, discover and book unique spaces around the world through mobile phones or the internet. Whether an apartment for a night, a castle for a week, or a villa for a month, Airbnb connects people to unique travel experiences at any price point, with [over 500,000 listings in 33,000 cities and 192 countries](https://www.airbnb.com/about/about-us).
+
+With a growing community of users, Airbnb also provides an easy way for people to monetize their extra space and showcase it to an audience of millions. 
+
+Founded in August 2008, Airbnb has acquired several of its competitors, including [Accoleo](/organization/accoleo), [CrashPadder](/organization/crashpadder), [NabeWise](/organization/nabewise), and [Localmind](/organization/localmind).
+
+Airbnb was founded in August 2008 by [Brian Chesky](/person/brian-chesky) and [Joe Gebbia](/person/joe-gebbia), and is currently headquartered in [San Francisco, California](http://www.crunchbase.com/location/san-francisco/528f5e3c90d111115d1c2e4ff979d58e), USA.",company,1,1,,,2008-08-01,7,,,0,1001,5000,2394820000,,,1,http://airbnb.com,1217504495,1454270216
+hootsuite,organizations/hootsuite,organization/hootsuite,Hootsuite,Array,"Hootsuite is the most widely used platform for managing social media, loved by over 10 million people around the globe.","Hootsuite is the most widely used platform for managing social media, loved by over 10 million people around the globe and trusted by 744 of the Fortune 1000. With Hootsuite, brands harness the power of social. Our platform brings together your social networks and integrates with hundreds of business applications. It’s the one place to build customer relationships, listen to the needs of the market and grow your revenue.",company,,,,,2008-11-28,7,,,0,501,1000,249900000,,,0,http://www.hootsuite.com,1239087657,1454228834
+behance,organizations/behance,organization/behance,Behance,,"Behance is an online platform that enables creative professionals to showcase and discover creative work via online portfolios.","Behance is an online platform that enables creative professionals to showcase and discover creative work via online portfolios.
+
+
+Behance's platform attracts millions of visitors who come to discover top talent along with powering creative networks for top schools and organizations, distributing work to other online galleries, and enabling portfolio display throughout the social web. And with Behance [ProSite](http://www.crunchbase.com/product/prosite), its members are able to create customizable personal portfolio sites that sync with their work on Behance for maximum efficiency and reach. The platform also serves as the backbone of [AdWeek](http://www.crunchbase.com/organization/adweek), [LinkedIn](http://www.crunchbase.com/organization/linkedin), and thousands of other portfolio sites and online galleries of creative talent.
+
+
+Used by millions of individuals to display and find talent every month, Behance received over 50 million page views from over 9 million visitors per month by the winter of 2011.
+
+
+Behance offers its services for various creative fields, including advertising, animation, architecture, art direction, automotive design, branding, calligraphy, cartooning, character design, cinematography, computer animation, copywriting, costume design, crafts, creative direction, culinary art, digital art, digital photography, directing, drawing, editorial design, engineering, entrepreneurship, exhibition design, fashion styling, film, fine arts, furniture design, game design, graffiti, and graphic design.
+
+
+The platform also provides its services for the icon design, illustration, industrial design, information architecture, interaction design, interior design, jewelry design, journalism, landscape design, makeup arts, motion graphics, music, packaging, painting, pattern design, performing arts, photography, photojournalism, print design, product design, programming, retouching, sculpting, set design, sound design, storyboarding, street art, textile design, toy design, typography, user interface design, visual effects, web design, and web development creative fields.
+
+
+Behance was founded in February 2006 by [Grigory Rudko](http://www.crunchbase.com/person/grigory-rudko), [Matias Corea](http://www.crunchbase.com/person/matias-corea), and [Scott Belsky](http://www.crunchbase.com/person/scott-belsky) in New York, United States.",company,1,,,,2006-02-01,7,,,0,,,6500000,,,0,http://www.behance.net,1188411002,1454048295
+indeed,organizations/indeed,organization/indeed,Indeed,,"Indeed is an employment-related metasearch engine for job listings.","Indeed is the #1 job site worldwide, available in more than 50 countries and 28 languages, and covering 94% of global GDP. With more than 140 million monthly unique visitors, Indeed has double the traffic of the next leading job site. According to a recent study, Indeed is the #1 source of external hire for employers (SilkRoad, 2013). 
+
+Since 2004, Indeed has given job seekers free access to millions of jobs from thousands of company websites and job boards. As the leading pay for performance recruitment advertising network, Indeed drives millions of targeted applicants to jobs in every field and is the most cost-effective source of candidates for thousands of companies.
+
+Founded by Paul Forster and Rony Kahan, Indeed has over 800 employees with offices in Austin, Dublin, London, San Mateo, New York and Stamford.",company,1,,,,2004-11-01,7,,,0,,,5000000,,,0,http://www.indeed.com,1185289832,1453315289
+eventbrite,organizations/eventbrite,organization/eventbrite,Eventbrite,,"Eventbrite is a global marketplace for live experiences that lets people to find and create events.","Eventbrite is the world’s largest self-service ticketing platform, hosting a vibrant collection of live experiences to fuel people’s passions and enrich their lives.
+
+Eventbrite helps people find popular events; get event recommendations and information; register for and purchase tickets to events; store debit and credit cards for fast, efficient purchasing; view event details such as maps and directions; share events with friends; and get into events with mobile tickets.
+
+Event organizers can plan, promote and sell tickets to events, and publish them across Facebook, Twitter and other social networks directly from the site's interface. Event organizers are able to look up and check in their event attendees off a guest list; validate ticket barcodes by using phone cameras; and view live sales and event attendance statistics. 
+
+Eventbrite is available in English, German, Spanish, French, Italian, Dutch, Portuguese, and Swedish.
+ 
+The company has made two acquisitions, Lanyrd and Eventioz and opened offices in Melbourne, Dublin and Nashville. In San Francisco alone, the company employs nearly 300 people and is continuing to hire both locally and internationally. Investors include Tiger Global, DAG Ventures, Sequoia Capital, T. Rowe Price, and Tenaya Capital.
+
+Eventbrite was founded by Kevin Hartz, Renaud Visage, and Julia Hartz in 2006 and is based in San Francisco, California, USA.",company,1,,,,2006-01-01,4,,,0,,,199575000,,,0,http://www.eventbrite.com,1184644026,1453277097
+500px,organizations/500px,organization/500px,500px,,"500px is a premier online community for discovering, sharing, buying and selling inspiring photography.","500px is the premier photo community for discovering, sharing, buying and selling the highest quality photography.  Every month, millions of people from around the world visit our website and apps to find the world’s most inspiring photography.
+
+The company is headquartered in Toronto, Canada where it was founded in 2009 and has an office in San Francisco, United States.  500px has raised over $9 million in funding from Andreessen Horowitz, Harrison Metal, ff Ventures, and other investors.",company,1,,,,2009-10-01,7,,,0,,,22325000,,,0,http://500px.com,1280208651,1454193626
+moz,organizations/moz,organization/moz,"Moz, Inc.",Array,"Moz is the world's most popular provider of inbound marketing software.","Moz provides analytics software to track all of a website's inbound marketing efforts—search marketing, link building, social media, and brand mentions—on one platform. Moz Analytics tracks each effort with beautiful data visualizations, insights into competitors' data, and actionable recommendations to improve each effort's performance. 
+
+Dedicated to helping people do better marketing, Moz creates easy-to-use tools, tutorials, and educational resources for learning inbound marketing—and fosters the web’s most vibrant online marketing community. With offices in Seattle, WA and Portland, OR, Moz supports over 20,000 customers and 300,000 community members worldwide.
+
+The company received an A round of financing from Ignition Partners and Curious Office in September of 2007 to build their Linkscape web index.",company,,,,,2004-01-01,4,,,0,101,250,29100000,,,0,http://www.moz.com,1190400624,1453907962
+issuu,organizations/issuu,organization/issuu,Issuu,,"Issuu, a digital publishing and discovery platform, connects people to content created by publishers sharing the same passion.","Issuu is digital publishing and discovery platform that connects people to content for which they have great passion, created by publishers large and small, that share that passion. A digital publishing service that reimagines the print experience, Issuu hosts over 17 million publications and serves over 5.5 billion page-views to over 80 million active readers each month. The site features leading and emerging titles in fashion, culture, arts, hobbies, catalogs and hyperlocal content, all of which are accessible on any device.
+
+Issuu was founded in Copenhagen, Denmark in 2006 by Michael Hansen, Ruben Bjerg Hansen, Mikkel Jensen, and Martin Ferro-Thomsen, a self-avowed group of “mad geeks with a love of the publishing industry.”
+
+Originally focused on democratizing print media, the company has succeeded in giving aspiring and established publishers the chance to create their own digital magazines without sacrificing the aesthetic and tactile experience of print. With that goal firmly in mind, Issuu launched in December 2007.
+
+In 2008, the site was a SXSW finalist. In 2009, TIME named Issuu one of the 50 Best Websites, and the company was also listed as a Webby Awards honoree. In early 2013, the now transatlantic company opened an office in Palo Alto, California and appointed a new CEO, Joe Hyrkin, formerly of Reverb, Trinity Ventures, and Yahoo, to lead the company globally.",company,1,,,,2006-01-01,4,,,0,,,20250000,,,0,http://www.issuu.com,1203882852,1453712064
+9gag,organizations/9gag,organization/9gag,9GAG,,"9GAG.TV is a website that features user-generated videos under various categories.","9GAG.TV is a website that features user-generated videos under categories such as fail and prank, comedy, game, cute, movie and TV, music, and more.
+
+
+Its featured videos are updated daily, covering various TV shows or commercials that can be found on the site.",company,1,,,,2008-01-01,4,,,0,,,2800000,,,0,http://9gag.com,1343731584,1453277285
+quora,organizations/quora,organization/quora,Quora,Array,"Quora is a question-and-answer website created, edited, and organized by its community of users.","Quora is a question-and-answer website created, edited, and organized by its owners. It was founded in 2009 and is based in Palo Alto, California.",company,1,1,,,2009-06-01,7,,,0,,,141000000,,,1,http://quora.com,1262786099,1454242509
+prezi,organizations/prezi,organization/prezi,Prezi,Array,"Prezi is the interactive, cloud-based presentation platform that helps you connect more powerfully with your audience.","Prezi is the presentation platform that helps you connect more powerfully with your audience. Unlike slides, Prezi's interactive, zoom-able canvas lets you show relationships between the big picture and fine details, putting your ideas in relief. With Prezi, your message is more likely to resonate, motivate, and be remembered. Founded in 2009, and with offices in San Francisco and Budapest, Prezi now cultivates a community of over 50 million users and over 160 million prezis around the world. Investors include Accel Partners, Spectrum Equity and TED conferences. For more information, please visit www.prezi.com.",company,1,,,,2009-04-01,7,,,0,101,250,72760000,,,0,http://prezi.com,1217265230,1453680318
+arduino,organizations/arduino,organization/arduino,Arduino,,"Arduino is an open-source electronic prototyping platform allowing users to create interactive electronic objects.","Arduino is an open-source electronics prototyping platform based on flexible, easy-to-use hardware and software. It's intended for artists, designers, hobbyists, and anyone interested in creating interactive objects or environments.",company,1,,,,2005-01-01,4,,,0,,,0,,,0,http://www.arduino.cc,1275703323,1453453967
+uber,organizations/uber,organization/uber,Uber,Array,"Uber is a mobile app connecting passengers with drivers for hire.","Uber, a [San Francisco](/location/san-francisco/528f5e3c90d111115d1c2e4ff979d58e)-based technology startup, is innovating at the intersection of lifestyle and logistics. Uber connects riders with safe, reliable, convenient transportation providers at a variety of price-points in cities around the world.",company,1,1,,,2009-03-01,7,,,0,1001,5000,10207450000,,,0,http://www.uber.com,1278367626,1454269927
+fiverr,organizations/fiverr,organization/fiverr,Fiverr.com,,"Where it's all done. Fiverr® gives you instant access to millions of Gigs from people who love what they do.","Browse. Buy. Done. Fiverr® gives you instant access to millions of Gigs from people who love what they do. It’s the easiest way for individuals and businesses to get everything done, at unbeatable value. 
+
+Fiverr is the world’s largest marketplace for creative and professional services, currently listing over 3 million Gigs in more than 100 different categories across 196 countries. 
+
+Fiverr is one of the top 130 websites in the world according to Alexa.com.",company,1,,,,2010-02-01,7,,,0,,,111000000,,,0,http://www.fiverr.com,1267837558,1453277086
+hubspot,organizations/hubspot,organization/hubspot,HubSpot,,"HubSpot develops a cloud-based Inbound marketing software that allows businesses to transform the way that they market online","HubSpot is the world’s leading inbound marketing and sales platform. Since 2006, HubSpot has been on a mission to make the world more inbound. Today, over 10,000 customers in 65 countries use HubSpot’s software, services, and support to transform the way they attract, engage, and delight customers. HubSpot’s inbound marketing software, ranked #1 in customer satisfaction by VentureBeat and G2Crowd, includes social media publishing and monitoring, blogging, SEO, website content management, email marketing, marketing automation, and reporting and analytics, all in one integrated platform. Signals, HubSpot’s award-winning sales application, enables sales and service teams to have more effective conversations with leads, prospects, and customers. HubSpot is headquartered in Cambridge, MA with an office in Dublin, Ireland, and has been recognized by Inc., Forbes, and Deloitte as one of the world’s fastest-growing companies.",company,1,,,,2006-06-09,7,,,0,501,1000,100500000,NYSE,HUBS,0,http://www.hubspot.com,1196703465,1454214272
+wix,organizations/wix,organization/wix,Wix,Array,"Wix is a DIY web publishing platform enabling its users to design, publish, maintain and host free websites using online drag-&-drop tools.","Wix.com Ltd., (www.wix.com) is a leading cloud-based web development platform with over 63 million registered users worldwide and over 1 million new users joining globally every month. Through Wix's easy to use drag-and-drop, no coding needed tools, anyone can create their unique website and manage and manage and grow their business online. 
+ 
+Wix was founded in 2006 by brothers Avishai and Nadav Abrahami and Giora (Gig) Kaplan on the belief that the Internet should be accessible to everyone to develop, create and contribute. Through free and premium subscription, the Wix Editor and a highly curated App Market, Wix empowers millions of businesses, organizations, professionals and individuals to take their businesses, brands and workflow online.
+ 
+The Wix platform operates in ten languages with full support in nine languages  including - English, French, Spanish, Portuguese and Italian - with websites built by users in 190 countries around the world. Wix’s headquarters are in Tel Aviv with offices in San Francisco, New York, Dnepropetrovsk and Vilnius. Wix currently employs over 900 employees. 
+ 
+In November of 2013 Wix.com Ltd., became a publicly traded company listing on the NASDAQ stock exchange. Prior to going public the company was backed by investors Mangrove Capital Partners, Bessemer Venture Partners, Benchmark Capital, Insight Venture Partners and DAG Ventures.
+ 
+For more info visit http://www.wix.com/about/us",company,1,,,,2006-01-01,4,,,0,501,1000,58500000,NASDAQ,WIX,0,http://www.wix.com,1193102329,1454214273
+medium,organizations/medium,organization/medium,Medium,,"Medium is a social publishing network that connects ideas and perspectives on topics that matter.","Medium.com is a blog that enables users to share and experience knowledge, ideas and stories.
+
+It is a social publishing platform that allows anyone to share ideas and perspectives that matter. Users ranging from journalists to amateur cooks create, post, leave notes and add recommendations on medium.com. The site also helps users find their targeted audience with less effort.
+
+Medium.com was launched the the public in October of 2013.",company,,,,,2011-07-18,7,,,0,51,100,82000000,,,0,https://medium.com/,1366313875,1454202292
+zendesk,organizations/zendesk,organization/zendesk,Zendesk,Array,"Zendesk is a software development firm providing a SaaS suite that offers help desk ticketing, issue tracking, and customer service support.","Zendesk provides an integrated on-demand helpdesk - customer support portal solution based on the latest Web 2.0 technologies and design philosophies.
+
+The product has an elegant, minimalist design implemented in Ruby on Rails and provides seamless integration of the back-end helpdesk SaaS to a company's online customer-facing web presence, including hosted support email-ticket integration, online forums, RSS and widgets. This is unusual, because most SaaS helpdesk solutions focus exclusively on the backend helpdesk and treat the Web as an afterthought.
+
+The system also leverages Web 2.0 ideas on the backend, such as tag based categorization throughout instead of the usual pre-defined drop down lists, RSS feeds for every customized view and a complete REST/JSON API for virtually every entity in the system.",company,,,,,2007-10-05,7,,,0,,,85500000,NYSE,ZEN,0,http://zendesk.com,1216058649,1454276129
+atlassian,organizations/atlassian,organization/atlassian,Atlassian,,"Atlassian is a leading provider of collaboration software for teams with products including JIRA, Confluence, HipChat, Bitbucket and Stash.","Atlassian is a software company that provides innovative enterprise products to help organizations dream big, work smart, and deliver fast.
+
+Software to plan, collaborate, code, and service. Built for teams.
+
+Originally founded in 2002 in Sydney, Australia, the company has quickly grown to establish a global presence with over 40,000 customers in over 134 countries.
+
+In addition to the effective enterprise products offered to its customers, Atlassian prides itself on its customer service and support.",company,1,,,,2002-01-01,4,,,0,1001,5000,210000000,NASDAQ,TEAM,1,http://www.atlassian.com,1398010526,1454262789
+buffer,organizations/buffer,organization/buffer,Buffer,,"Buffer helps users share social media content by scheduling online posts throughout the day.","Buffer is a smarter way to share pictures, links or videos on Facebook, Twitter, LinkedIn and Google+.
+
+Just drop everything worth sharing in your Buffer and it will be posted for you well spaced out over the day, at a better time. 
+
+It works from anywhere, with lots of app integrations, browser extensions and shortcuts!
+
+Buffer was part of **[AngelPad](http://angelpad.org) #3** in 2011.",company,1,,,,2010-10-12,7,,,0,11,50,3900000,,,0,http://buffer.com,1298683221,1454166333
+pocket,organizations/pocket,organization/pocket,Pocket,Array,"Pocket is an application that allows users to save and retrieve documents and videos from websites.","Pocket is a service that lets you save what you find on the web to watch and read on any device, anytime.
+
+Founded in August 2007 by Nate Weiner, it is now based in San Francisco.",company,1,,,,2007-08-06,7,,,0,,,14500000,,,0,http://getpocket.com,1310527594,1453277299
+tabelog,organizations/tabelog,organization/tabelog,Tabelog,,"Tabélog is an online space to share and discover inspiring dining experiences. For Foodies, By Foodies.","Tabélog is an online space to share and discover inspiring dining experiences. For Foodies, By Foodies.
+
+To create the most dynamic, interactive environment where users can come together over a shared passion for fine dining.
+
+Founded by its parent company, Kakaku.com, in 2005 in Tokyo, Tabélog is the premier restaurant review site in Japan with more than 40 million users monthly. The New York website launched in March, 2013.",company,1,,,,,,,,0,,,0,,,0,http://www.tabelog.us/,1411820003,1452934595
+klout,organizations/klout,organization/klout,Klout,,"Klout is an application that measures and ranks its users according to online social influence by using social media analytics.","Klout measures influence based on the ability to drive action across the social web. Any person can connect their social network accounts and Klout will generate a score on a scale of 1-100 that represents their ability to engage other people and inspire social actions. Klout enables everyone to gain insights that help them better understand how they influence others. Klout also provides people with opportunities to shape and be recognized for their influence.",company,1,,,,2008-08-01,7,,,0,51,200,40000000,,,0,http://klout.com,1230097996,1454268813
+duolingo,organizations/duolingo,organization/duolingo,Duolingo,,"Duolingo is a popular free language education platform.","Duolingo is a free online language learning service with more than 80 million students around the world, which makes us the biggest mobile language learning application in the world. We are currently offering courses in 25 languages (and expanding to more than 30 in 2015). Duolingo is available on the Web, Android, iOS and Windows Phone, winning Apple's iPhone App of the Year 2013 and Android's Best of the Best.",company,1,,,,2011-11-01,7,,,0,11,50,83300000,,,0,http://duolingo.com,1337735918,1454028920
+ustream,organizations/ustream,organization/ustream,Ustream,Array,"Ustream provides a live interactive broadcast platform.","Ustream provides a live interactive broadcast platform.
+
+ 
+ Its platform enables to view and broadcast content, including high school sporting events and red carpet movie premieres, political events, concerts, conferences, talk shows, interactive games, and personal milestones. The company also offers advertising and digital campaign solutions; solutions for mobile devices, streaming players, connected TVs, and other devices; production and event services such as event production, event and program development, account management/tech support and performance metrics, transmission and connectivity, and custom mobile applications services; and broadcaster services.
+
+ 
+ The company was founded in 2007 by John Ham, Brad Hunstable, and Gyula Feher. Its clientele and partners include Cisco, Sony, Discovery Communications, Georgetown University, and Samsung.
+
+ 
+ Based in Francisco, California, Ustream has additional offices in Los Angeles, California; Tokyo, Japan; and Budapest, Hungary.",company,1,,,,2007-01-01,7,,,0,,,60310000,,,0,http://www.ustream.tv,1182604571,1454259983
+box,organizations/box,organization/box,Box,Array,"Box is an online file sharing and cloud content management service offering unlimited storage,custom branding, and administrative controls","After starting as a college business project in 2005, Box was officially launched in March of 2006 with the vision of connecting people, devices and networks.
+
+Box provides more than 8 million users with secure cloud content management and collaboration. They say their platform ""allows personal and commercial content to be accessible, sharable, and storable in any format from anywhere.""",company,1,,,,2005-01-01,4,,,0,1001,5000,558950000,NYSE,BOX,2,http://www.box.com,1184697452,1454271049
+coursera,organizations/coursera,organization/coursera,Coursera,,"Coursera is an education company partnering with universities and organizations worldwide to offer free massive open online courses (MOOCs).","Take online classes and Specializations from over 100 top universities and educational organizations. Coursera partners with schools like Yale University, Johns Hopkins University, University of Edinburgh, Peking University, and others to offer courses in dozens of topics, from computer science to psychology and beyond. Whether you are pursuing a passion or looking to advance your career, Coursera provides open online education for everyone.
+
+For more information, visit www.coursera.org.",company,,,,,2012-01-01,4,,,0,101,250,146100000,,,0,http://www.coursera.org,1334832297,1454173895
+treehouse,organizations/treehouse,organization/treehouse,Treehouse,,"Treehouse is an online school that teaches how to make apps. Students go from zero to job-ready in 6-12 months for $25 per month.","Treehouse (formal name Treehouse Island, Inc.) brings affordable Technology education to people everywhere, in order to help them achieve their dreams and change the world.
+
+Treehouse is an online school that teaches how to make apps. They take their Students from zero to job-ready in 6-12 months, for just $25 per month and then they help place them in a job, paying $45,000+ with no degree and no experience. If you're already in the tech industry, they also help keep your skills up to date.",company,1,,,,2011-11-01,7,,,0,51,100,12350000,,,0,http://teamtreehouse.com,1247282078,1454007283
+square,organizations/square,organization/square,Square,Array,"Square is a merchant services aggregator and mobile payment company that aims to simplify commerce through technology.","Square helps anyone take care of their business. Square's complete [register](http://www.square.com/register) service is a full point of sale with tools for every part of running a business, from accepting credit cards and tracking sales and inventory to small-business financing. Customers also use [Square Cash](/product/square-cash), the easiest way to send and receive money, and [Square Order](/product/square-order), a new way to pre-order food and drinks for pickup. Founded in 2009 and headquartered in [San Francisco](/location/san-francisco/528f5e3c90d111115d1c2e4ff979d58e), Square is currently available in the United States, Canada, and Japan.",company,1,1,,,2009-02-01,7,,,0,501,1000,590500000,NYSE,SQ,0,http://squareup.com,1241853755,1454274334
+lumosity,organizations/lumosity,organization/lumosity,"Lumos Labs",,"Lumosity is a neuroscience research company that provides online brain training programs.","Lumosity's web and mobile games are designed to challenge core cognitive abilities. Founded in 2005 and launched in 2007, Lumosity offers more than 40 games that are designed to challenge core cognitive abilities. Lumosity’s games are based on neuroscience, with continuing independent third-party studies being conducted by researchers at academic institutions around the world.",company,1,,,,2005-01-01,4,,,0,,,67500000,,,0,http://www.lumosity.com,1207640661,1453639817
+nginx,organizations/nginx,organization/nginx,"NGINX, Inc.",,"NGINX, Inc. offers advanced Internet infrastructure software helping companies match increasing demand for faster web experiences at scale.","NGINX, Inc. offers advanced Internet infrastructure software that enables companies to match increasing demand for faster web experiences at scale.  NGINX offers two solutions:  NGINX is the popular open source software powering much of the world's largest and fastest websites; NGINX+ is a commercial offering that includes all the power and scale of NGINX, plus additional, enterprise-class features such as application balancing, health checks, activity monitoring, on-the-fly configuration, and support.",company,,,,,2011-01-01,7,,,0,,,33000000,,,0,http://nginx.com,1318356106,1453277401
+mint,organizations/mint,organization/mint,Mint,Array,"Mint aggregates all your financial life in one, easy-to-understand place. Mint also gives you free advice on how to save money","Mint is an extensible, self-hosted web site analytics program. Its interface is an exercise in simplicity. Visits, referrers, popular pages and searches can all be taken in at a glance on Mint's flexible dashboard.",company,1,,,,2006-11-25,7,,,0,5001,10000,31775000,,,1,http://www.mint.com,1245810481,1454057197
+mixi,organizations/mixi,organization/mixi,"mixi, Inc. (Japan)",,"Mixi is a Japanese social networking service that allows users to connect with their friends in a convenient way.","Mixi is a Japanese social networking service that allows users to connect with their friends in a convenient way.
+
+ 
+ It enables users to send and receive messages, write in a diary, read and comment on others' diaries, organize and join communities, and invite their friends.
+
+ 
+ It was founded in 2004 and is owned by [Mixi, Inc.](http://www.crunchbase.com/organization/mixi).",company,1,1,,,1999-07-03,7,,,0,,,0,TYO,2121,2,http://mixi.co.jp/en/overview,1215476486,1453277896
+teespring,organizations/teespring,organization/teespring,Teespring,,"Teespring is a commerce platform that empowers anyone to design and sell products that people love.","Teespring is a commerce platform that empowers anyone to design and sell products that people love. Its world-class platform powers all aspects of bringing merchandise to life from production and manufacturing to supply chain, logistics, and customer service. By unlocking commerce for everyone, Teespring is creating new opportunities for entrepreneurs, influencers, community organizers, and anyone who rallies communities around particular causes or specific passions.",company,1,,,,2011-01-01,4,,,0,251,500,56875000,,,1,http://teespring.com,1398710765,1454269916
+badoo,organizations/badoo,organization/badoo,Badoo,,"Badoo is a social networking site focused on dating, allowing users to chat, make friends and share interests.","Badoo.com makes it fun to connect with new people locally to chat, meet-up or make new friends. Badoo has currently just over 201 million registered members. If Badoo was a country it would have surpassed the combined population of the United Kingdom, France and Italy some time ago.
+
+Badoo’s fastest growth has been among young adults aged between 25 and 35 years old. These young adults are looking to make new friends, rather than connecting with relatives and colleagues on other social networks. The number of registered users has increased by 28% during 2013, and Badoo is currently growing by 100,000 new users every day.
+
+As a freemium social network we offer a wide range of free services, plus paid special features to help you meet even more new people.
+
+Badoo was launched in 2006, and is now one of the leading social networks in Europe and South America. We have 200 million users, with over 100,000 new sign-ups every day. People use Badoo to find new friends in 191 countries and 44 languages. Badoo has 250 employees and is based in London, with offices in Moscow and San Francisco. For more information please visit www.badoo.com.
+
+The engine driving Badoo is the location-based hot-or-not game, called Encounters, launched in 2007. Encounters allows users to find people in their local area, with the help of photo, interests and profile info. A match is created when both users like each others’ profiles. Every day users visit 563 million profiles resulting in close to 10 million daily matches. 
+
+The double opt-in, requiring both partners to express interest, avoids users getting messages from people they don’t like, and takes away the feeling of rejection you might feel in a bar or dating site. Alternatively, using the People Nearby feature, users can browse and filter people based on location, interests and age. It's easy to find new people you like, send them a message, and then buy them a virtual gift or start a chat.
+
+
+Key Facts, Awards and Press Coverage : 
+
+* 201+ million registered members
+* 563 million profile views daily resulting in close to 10 million daily matches
+* Operational in 191 countries
+* Available in 44 languages
+* 35m+ active users per month
+* $150m+ annual run rate
+* 250+ employees worldwide
+* 3+ million photos uploaded daily
+
+12/02/12 - Badoo named by Fast Company as one of the 10 Most Innovative Web Companies in the World 
+
+01/05/12 - Badoo nominated for Best International Startup at the 2011 TechCrunch Crunchies Awards
+
+11/28/11 – Badoo nominated for Best Social Network at the 5th Annual Mashable Awards 2011
+
+04/11/11 – Badoo nominated for Social Network at the 2011 Daily Telegraph’s Start-Up 100 Awards
+
+18/11/11 – Badoo named as Highly Recommended at the European Tech Startup Awards 2011
+
+Press Highlights :
+""Badoo by the numbers: 200 million users and $200m in annual revenue on strong mobile usage growth"", Tech.EU, December 2013
+http://tech.eu/news/badoo-200-million-users/
+
+“Badoo : The Biggest Startup You’ve Never Heard Of Is About To Hit 108 Million Members” Business Insider, February 2011
+
+“Badoo doubles up, and the Social Network has the world in its sights.” The Next Web, July 2011
+
+“Social Media must steadily innovate says Bart Swanson, COO of Badoo, as he discusses social networking and the outlook for the industry with Maryam Nemazee on ""The Pulse."" Bloomberg, July 2011
+
+Future of Social Networking? “When it comes to business, Badoo is certainly no wannabe. It has a shot at becoming one of Europe’s leading internet firms” Economist, September 2011
+
+“The business areas that have piqued Wales’ interest include location-based mobile services and collaborative video. When it comes to the former, he cites Foursquare and Badoo as interesting businesses.” Jimmy Wales, Founder of Wikipedia, Wired, October 2011
+
+“Badoo just may be the biggest startup you’ve never heard of. It’s a social network for meeting new people (and no, that doesn’t just mean teens hooking up), and it now has over 130 million users.” Business Insider, November 2011
+
+“Business network LinkedIn Corp. and social media dating site Badoo have benefited from an alternative focus to Facebook, growing 24 percent and 67 percent respectively in Europe since September 2010, according to ComScore.” Bloomberg, November 2011
+
+“The London-based company, which has 130 million users in 180 countries and has recently made a push into U.S. borders, touts its free new features — “Interests” and “Ice Breaker” — as digital aids for users who are concerned about leaving favorable first impressions.” Mashable, December 2011
+
+“Badoo, the online network for meeting new people recently reached 130 million registered users and now brings in $100 million a year. Based out of London’s Silicon Roundabout, Badoo would be the 4th biggest social network if it was just a social network” TechCrunch, December 2011
+
+“A European social network that straddles the physical and virtual worlds allowing users to find out who is near them and chat and meet up announced at DLD in Munich that it had topped 135 million users.” Wall Street Journal, January 2012
+
+Smart List 2012 : “50 people who will change the world”. Wikipedia founder Jimmy Wales nominates Badoo founder Andrey Andreev as one of the 50 people who will change the world. Wired magazine, January 2012
+
+“Badoo named one of the 10 Most Innovative Web Companies in the World for creating one of the world’s largest, most functional, and fastest-growing dating networks. Growth exploded in 2011: Badoo now boasts 133 million users and is available in 35 languages.” Fast Company magazine, February 2012
+
+""Social Network Badoo Officially Launches in the US with a massive public photo shoot in New York City dubbed the Badoo Project."" Mashable, March 2012 
+
+""Badoo puts the “social” back into social networking. It is all about meeting new people. People use the site for making new friends, chatting, flirting, and dating, and all our features and tools are geared toward bringing people together for new social experiences. So in that sense, we actually provide a different, yet complementary experience from traditional social networking sites."" Forbes, March 2012",company,1,,,,2006-10-01,7,,,0,,,30564744,,,0,http://www.badoo.com,1201008631,1454113876
+songkick,organizations/songkick,organization/songkick,Songkick,Array,"Songkick is a ticketing vendor and online database of concerts for music enthusiasts.",,company,,,,,2007-01-01,4,,,0,,,45815000,,,0,http://songkick.com,1193100732,1453767638
+designmodo,organizations/designmodo,organization/designmodo,Designmodo,,"Designmodo New York based company with focus on digital products for designers and developers.","Web design and development blog and shop. 
+
+125 000+ Customers love Designmodo products.",company,1,,,,2011-02-01,7,,,0,,,0,,,0,http://designmodo.com,1401320296,1446249515
+wanelo,organizations/wanelo,organization/wanelo,Wanelo,,"Wanelo is a mall on your phone, curated by people.","Wanelo (“wah-nee-loh,” from Want, Need, Love) is a mall on your phone, curated by people. It helps you find the most amazing products in the universe. A regular mall has 150 stores, but on Wanelo you’ll find over 350,000 stores which include all the big brands you know, as well as tiny independent boutiques and sellers you’ve never heard of.
+
+Wanelo is also a way to search and follow all of your favorite stores in one place. It's used by millions of people who post tens of thousands of new products to Wanelo every day.
+
+Wanelo was launched in 2012 by Deena Varshavskaya, who was frustrated with shopping in traditional malls. Her personal style didn’t fit a simple category and she wanted to shop in more unique places. She decided to create a social network that would make it easy to discover amazing stores and products from anywhere online.
+
+Deena worked on Wanelo for more than two years using her own savings before attracting Wanelo’s first users. In 2011, she moved to San Francisco and raised funding after 40 investor rejections. Today, Wanelo is a team of 35, and millions of people are using it to find and buy products they love.",company,1,,,,2011-01-01,4,,,0,,,14000000,,,0,http://wanelo.com,1263973799,1453723522
+socialbakers,organizations/socialbakers,organization/socialbakers,Socialbakers,Array,"Socialbakers is one of the world’s largest social marketing & analytics suites, with over 2,700 clients in 100 countries.","Socialbakers is one of the world’s largest social marketing & analytics suites, with over 2,700 clients in 100 countries - including half of the Global Fortune 500. 
+
+In addition to offering one of the largest databases of free social media statistics and insights in the world, we provide user-friendly social media solutions that allow brands to measure, compare, and optimize their social campaigns with competitive intelligence that is second to none. 
+
+With the only analytics platform that provides global industry benchmarking and local categorization in social media, Socialbakers is the most versatile, complete service of its kind. Facebook has awarded Socialbakers 3 Preferred Marketing Developer badges in recognition of its capabilities. 
+
+Since 2008, Socialbakers has grown from a small office in Pilsen, Czech Republic, to a global entity with nearly 400 employees of 32 nationalities, working in 14 offices across the globe. Our developers have put in nearly 400,000 hours of product development in order to make sure that Socialbakers products are constantly improving. 
+
+Smart social marketing begins with Socialbakers.",company,1,,,,2008-10-13,7,,,0,251,500,34000000,,,0,http://www.socialbakers.com,1285530267,1454228432
+opendns,organizations/opendns,organization/opendns,OpenDNS,,"OpenDNS provides enterprise security to more than 65 million daily users, and 10,000+ paying businesses. It was acquired by Cisco for $635m.","OpenDNS provides reliable security options and other advanced services for web surfers and network administrators. It is a security company providing Internet security and domain name system services to secure the networks used by people to connect to the Internet worldwide. Today, a growing number of the Fortune 500 rely on OpenDNS to secure their global infrastructure. In total, more than 65 million Internet users connect with confidence each day with OpenDNS.  In July, 2015, Cisco completed the $635 million acquisition of OpenDNS.
+
+ It offers Umbrella, a cloud-delivered network security solution that delivers automated protection against attacks and web threats on various devices, such as phones, tablets, laptops, and other gaming consoles. OpenDNS has also introduced an open source data visualization engine known as OpenGraphiti that enables security analysts, researchers, and data scientists to pair visualization and big data to create 3D representations of threats.
+
+ 
+ In October 2009, OpenDNS began offering an Enterprise service, which includes malware protection, delegated administration, and block page bypass, in addition to reliable DNS and Web content filtering.
+
+ 
+ OpenDNS was founded in 2005 by DNS expert and entrepreneur [David Ulevitch](http://www.crunchbase.com/person/david-ulevitch). The company was originally backed by [CNET](http://www.crunchbase.com/organization/cnet) founder [Halsey Minor](http://www.crunchbase.com/person/halsey-minor) and is funded by [Sequoia Capital](http://www.crunchbase.com/organization/sequoia-capital) and [Greylock Partners](http://www.crunchbase.com/organization/greylock). It is headquartered in San Francisco, C.A.",company,,,,,2005-11-01,7,,,0,,,51260000,,,0,http://www.opendns.com,1204769935,1453586839
+wetransfer,organizations/wetransfer,organization/wetransfer,WeTransfer,,"WeTransfer is a cloud-based file transfer service designed to transmit small to large files.","WeTransfer created a fast and simple tool that empowers you to send large files, right now, for free. 
+
+Quickly upload 2GB of content to transfer and you can get back to making stuff that might change the world.
+
+WeTransfer sends your files from A to B. Free of stress and of charge. They've been doing so since 2009. To date they have transferred millions of files safely to practically every corner of the world. Simple, safe, good looking & for everyone.
+
+Their mission is to create a service that allows anyone in the world to send large files, free of stress and of charge. With WeTransfer you can send up to 2GB per transfer. 
+
+It’s simple, secure, free and good looking. 
+
+http://www.wetransfer.com",company,1,,,,2009-12-01,7,,,0,,,25000000,,,0,http://www.wetransfer.com,1292009166,1453471935
+canva,organizations/canva,organization/canva,Canva,,"Canva facilitates graphic design by providing a drag-and-drop design tool and a library of stock photographs, graphic elements and fonts.","Canva makes graphic design amazingly simple for everyone, by bringing together a drag-and-drop design tool with a library of more than 1 million stock photographs, graphic elements and fonts.
+
+Start designing at http://www.canva.com/",company,1,,,,2012-01-01,4,,,0,11,50,27955000,,,0,http://www.canva.com,1359972490,1453965600
+stripe,organizations/stripe,organization/stripe,Stripe,,"A set of unified APIs and tools that instantly enable businesses to accept and manage online payments.","Stripe is the best way to accept payments online. Stripe aims to expand internet commerce by making it easy to process transactions and manage an online business. We want to increase the GDP of the internet.
+
+We believe that enabling more transactions is a problem rooted in code and design, not finance. Stripe is built for developers, makers, and creators.
+
+We had experienced first-hand the difficulty of accepting online payments. On almost every front, it was becoming easier to build and launch an online business. Payments, however, remained dominated by clunky legacy players. It seemed clear that there should be a developer-focused, instant-setup payment platform that would scale to any size. Stripe launched in September 2011.
+
+Stripe now processes billions of dollars a year for thousands of businesses, from newly-launched start-ups to Fortune 500 companies. Since Stripe powers so many new businesses, it's a snapshot of how the internet is changing; many users are in categories that barely existed five years ago.",company,1,,,,2010-01-01,4,,,0,251,500,280000000,,,1,http://stripe.com,1300099075,1454242479
+cloudflare,organizations/cloudflare,organization/cloudflare,CloudFlare,,"CloudFlare is a web performance and security company that provides online services to protect and accelerate websites online.","CloudFlare is a web performance and security company that provides online services to protect and accelerate websites online.
+
+
+The company’s online platforms include CloudFlare CDN, which distributes content around the world to speed up websites; CloudFlare optimizer that enables web pages with ad servers and third-party widgets to download Snappy software on mobiles and computers; CloudFlare security, which protects websites from a range of online threats including spam, SQL injection, and DDOS; CloudFlare analytics that gives insight into website’s traffic including threats and search engine crawlers; Keyless SSL that allows organizations to keep secure sockets layer (SSL) keys private; and CloudFlare applications that help its users install web applications on their websites.
+
+
+CloudFlare was incorporated in 2009 and is based in San Francisco, California.",company,1,,,,2009-07-01,7,,,0,101,250,182050000,,,0,http://www.cloudflare.com,1259279190,1454196001
+tinder,organizations/tinder,organization/tinder,Tinder,,"Tinder anonymously finds people nearby that like each other and connects them if they are both interested.","Tinder is how people meet. It’s the world’s most popular app for connecting with new and interesting people around you. It’s free, fun and effective. That’s why every single day there are more than 26 million matches made on Tinder. 
+
+Every time you open Tinder, you’ll immediately see new, interesting people nearby, along with friends or interests you have in common. Swipe right to like or left to pass on each person’s profile. All swipes are anonymous. No one will ever know you’ve passed on their profile. Only once you’ve both swiped right on each other will your newfound match be revealed. Get to know your match directly in Tinder by using our built-in, safe and private chat.",company,1,,,,2012-09-01,7,,,0,51,100,0,,,0,http://www.tinder.com,1304502266,1454246406
+freshdesk,organizations/freshdesk,organization/freshdesk,Freshdesk,Array,"Freshdesk enables companies to provide multichannel support via phone, email, chat, website, social networks and mobile apps.","Freshdesk makes customer happiness refreshingly easy. Launched in 2010, Freshdesk has over 30,000 customers across the world, including 3M, Honda, Hugo Boss, University of Pennsylvania, The Atlantic, and QuizUp. With powerful features, an easy to use interface, and a freemium pricing model, Freshdesk’s cloud-based customer support software enables companies of all sizes to support customers through email, phone calls, websites, forums and social media channels. The company is headquartered in San Francisco, California and has a development center in Chennai, India.",company,,,,,2010-01-01,4,,,0,,,95051568,,1-800-407-1322,0,http://www.freshdesk.com/,1303308884,1454066948
+giphy,organizations/giphy,organization/giphy,Giphy,,"How you search, share, and discover the world's best GIFs.","Giphy is a search engine for GIFs.
+
+Animated GIFs have existed for decades, but there was still no good way to browse and discover the best the web had to offer.  And the vision for Giphy isn’t really just about finding GIFs.  It’s a search engine today but soon you’ll see it grow into a community, a platform with a host of features targeted at gif artists, enthusiasts, bloggers, and anyone generally looking to discover or create that next big meme.
+
+When the team launched Giphy at betaworks, it truly was a “hack”, a fun experiment to try and remedy something we felt had been broken for far too long.",company,1,,,,2013-02-01,7,,,0,11,50,23949998,,,0,http://giphy.com,1378627765,1454166256
+doodle,organizations/doodle,organization/doodle,Doodle,,"Doodle is an online event scheduling tool for planning and allocating time for events such as meetings, dinners, and reunions.","Doodle radically simplifies the process of scheduling events, whether they’re board or team meetings, dinners with friends, reunions, weekend trips, or anything else.This smart assistant saves time for millions of people worldwide, and in the end, it brings people together.
+
+Doodle is free and doesn’t require registration by either the initiator or the participants of a meeting poll.Doodle also provides solutions for 1:1 scheduling and customer appointment scheduling.
+
+The world’s leading online scheduling service, Doodle (www.doodle.com) takes the pain out of finding the right date and time for a group of people to meet and makes scheduling virtually effortless.",company,1,,,,2007-03-01,7,,,0,11,50,0,,,0,http://www.doodle.com,1217575026,1453928951
+freepik,organizations/freepik,organization/freepik,Freepik,,"Free images search engine","Freepik is a search engine that helps graphic and web designers to locate high quality photos, vectors, illustrations and PSD files for their creative projects.
+
+Freepik tracks and locates free graphic content on the Internet and it displays the results in an orderly layout for easy access. Freepik makes it easier for people to find the files they need without manually searching dozens of websites.",company,1,,,,,,,,0,,,0,,,0,http://www.freepik.com,1387466951,1453280251
+strava,organizations/strava,organization/strava,Strava,,"Strava is the online network connecting the global community of athletes","Strava is the online network that connects the global community of athletes. Founded in 2009, millions of athletes have joined Strava for the competition and camaraderie found in tracking and sharing their fitness activities. The company’s free mobile apps and website help members discover and plan workouts, record and share activities, and analyze and compare performance. Strava’s ability to connect athletes around the world makes fitness a more social experience, providing extra motivation even when training alone.",company,1,,,,2009-01-01,4,,,0,,,34600000,,,0,http://www.strava.com,1269476674,1454192395
+piwik,organizations/piwik,organization/piwik,Piwik,,"Piwik is an open source (GPL license) Web Analytics software. It generates reports on website visitors, popular pages, the search engines","Piwik is an open source (GPL license) Web Analytics software. It generates reports on website visitors, popular pages, the search engines keywords used, and the language spoken.
+
+Piwik's features are built inside plugins: one can add new features and remove the ones not needed. Developers can build their own plugins.
+Users also own the data. Once Piwik is installed on a server, the data is stored in users' own database and  statistics can be obtained by using open APIs (publishing the data in many formats: xml, json, php, csv).
+
+Additonally,  the user interface is fully customizable, users can drag and drop the widgets they want to display and create the reports they need.",company,1,,,,2007-09-01,7,,,0,1,10,0,,,0,http://piwik.org,1208923650,1453279757
+slack,organizations/slack,organization/slack,Slack,Array,"Slack is a team communication application providing services such as real-time messaging, archiving, and search for modern teams.","Slack is a team communication application providing services such as real-time messaging, archiving, and to search for modern teams. It offers one-on-one messaging, private groups, persistent chat rooms, and direct messaging as well as group chats organized by topic. All content inside Slack is searchable from one search box and it integrates with a number of third-party services, including [Google Docs](/product/google-docs), [Dropbox](/organization/dropbox), [Heroku](/organization/heroku), [Crashlytics](https://www.crunchbase.com/organization/crashlytics), [GitHub](/organization/github), and [Zendesk](/organization/zendesk).
+
+Slack was launched in 2013 by [Serguei Mourachov](/person/serguei-mourachov), [Eric Costello](/person/eric-costello), [Cal Henderson](/person/cal-henderson), and [Stewart Butterfield](/person/stewart-butterfield). It is based in [San Francisco, C.A.](/location/san-francisco/528f5e3c90d111115d1c2e4ff979d58e) The application is available for [Mac](/product/mac), PC, [iOS](/product/ios), and [Android](/product/android).",company,1,1,,,2013-01-01,7,,,0,,,339950000,,,3,http://slack.com,1247240979,1454271649
+solarcity,organizations/solarcity,organization/solarcity,SolarCity,,"SolarCity is a provider of solar energy services to homeowners, businesses, government and non-profit organizations.","Founded in 2006, SolarCity is a full-service solar provider for homeowners, businesses and government organizations. It provides solar power system design, financing, installation, energy efficiency and monitoring services. 
+
+SolarCity's operations are in Arizona, California, Colorado, Hawaii, Maryland, Massachusetts, New Jersey, New York, Oregon, Pennsylvania, Texas and Washington D.C.
+
+According to the company's website, SolarCity's founders believe that the environmental impact of energy production is one of the greatest challenges that our planet will face in the near future, and the company aims to alleviate this impact with solar power systems. 
+
+Their stated mission is to ""make solar power the workhorse of the world's energy production...one installation at a time.""",company,,,,,2006-01-01,4,,,0,10001,1000000,1158040000,NASDAQ,SCTY,2,http://www.solarcity.com,1224130952,1454269926
+zozotown,organizations/zozotown,organization/zozotown,Zozotown,,"Zozotown is a Japanese online destination for contemporary fashion and streetwear.","Zozotown is a Japanese online destination for contemporary fashion and streetwear.
+
+
+It was launched in 2004 by Yusaku Maezawa, a Japanese entrepreneur.",company,1,,,,1998-04-21,7,,,0,,,0,,,0,http://zozo.jp/,1419160071,1452932168
+unbounce,organizations/unbounce,organization/unbounce,Unbounce,,"Unbounce is the landing page builder for marketers. Build and test mobile-responsive landing pages for your campaigns—no coding required.","Unbounce is the landing page builder designed for marketers. Build, publish and A/B test high-converting mobile-responsive landing pages for your campaigns without relying on technical teams or dealing with I.T. bottlenecks. 
+
+Unbounce is the founder of the annual Call To Action Conference in Vancouver, a 2-day event that brings together the brightest minds in digital marketing. Learn more at http://unbounce.com/call-to-action-conference/.",company,,,,,2009-08-15,7,,,0,101,250,850000,,,0,http://www.unbounce.com,1266892972,1453938694
+viki,organizations/viki,organization/viki,Viki,,"Viki is a global TV site powered by fans that streams premium content that is translated in over 200 languages.","Viki is a global TV site that streams TV shows, movies and other premium content, translated into more than 200 languages by a community of avid fans. With nearly 1 billion words translated, Viki uniquely brings global prime-time entertainment to new audiences and unlocks new markets and revenue opportunities for content owners. 
+
+Viki is the first and fastest platform for real-time subtitling of video -- from Hollywood Hits to Japanese Anime to Korean Dramas and Spanish Novelas. It has content deals with NBCU, A&E, BBC, TBS, TNT, MBC, SBS, TVA, among others. In 2012, Viki began offering music videos and launched anime with over 100 Japanese titles and its first original series Ozma. Viki also syndicates its shows with partners such as Netflix, Hulu, Amazon and Yahoo!.
+
+Viki is available on PC, mobile, tablet, smart TV and set top boxes. It is available in 50+ countries and has over 40 million viewers per month and 10 million mobile users. 
+
+The Wall Street Journal Asia named Viki one of the most innovative companies 2012. Viki won the Crunchie Award for Best International Startup in 2010.
+
+Viki, a play on the words “video” and “wiki,” publicly launched in December 2010 and has offices in Singapore, San Francisco and Seoul.",company,1,,,,2010-01-01,4,,,0,,,24300000,,,1,http://www.viki.com,1291853082,1454069426
+ranker,organizations/ranker,organization/ranker,Ranker,,"A crowdsourced platform with curated lists of all topics. Visitors vote to shape the rankings, generating milliions of consumer datapoints.","Ranker is a Quantcast Top 100 and growing (23+million monthly uniques) site that doubles as a consumer sentiment data-analysis machine. To consumers, Ranker is a fun, engaging site that empowers them to vote their opinions across deep rankings of things they are passionate about, but from a business point of view, Ranker is a first party data collection engine. Ranker’s platform crowdsources the most credible answers (validated against traditional polling) to over 100,000 opinion-based questions rankings ranging from the best board games to the funniest TV shows ever. 10% of Ranker’s visitors vote on lists like these,  10% of Ranker’s visitors vote on lists like these, and this data not only builds the best possible rankings on the topic, but also has built an opinion graph with 50 million edges (ie “People who like the show Modern Family have a 7.4X higher than average affinity for dining at Panera Bread”). This graph is the most precise on the web in entertainment and food/beverage and has been successfully used to optimize ad spend on Facebook’s Audience Insights platform beyond Facebook’s targeting suggestions, among other uses. This data collected from millions of voters is also uniquely qualified to power or inform media recommendations (movies, TV, music).",company,,,,,2008-05-02,7,,,0,11,50,5100000,,,0,http://www.ranker.com,1238546950,1453277484
+8tracks,organizations/8tracks,organization/8tracks,"8tracks Radio",,"8tracks is an internet radio and social network that streams user-curated song playlists that contain at least 8 tracks.","8tracks is a handcrafted internet radio network -- the social alternative to Pandora.  Listeners tune into online mixtapes of 8 or more tracks, curated by people who know and love music, streamed in a legal, radio-style manner.",company,1,,,,2008-08-08,7,,,0,11,50,5279980,,,0,http://www.8tracks.com,1225177926,1453277385
+zulily,organizations/zulily,organization/zulily,zulily,,"zulily is retailer focused on delivering customers special finds every day—all at incredible prices.","zulily is retailer focused on delivering customers special finds every day—all at incredible prices. zulily features an always-fresh curated collection of products for the whole family, including clothing, home decor, toys, gifts and more. zulily was launched in 2010 by Darrell Cavens and Mark Vadon and today, millions of people discover something new on zulily every day. zulily is headquartered in Seattle with offices in Nevada and Ohio. zulily’s shares are traded on the Nasdaq Global Select Market under the symbol ZU.",company,1,,,,2010-01-01,4,,,0,1001,5000,138600000,NASDAQ,ZU,1,http://www.zulily.com,1261114129,1453277382
+criteo,organizations/criteo,organization/criteo,Criteo,,"Criteo is a global technology company that serves personalized online display advertisements to consumers on behalf of e-commerce companies.","Criteo  is  the  global  leader  in  Performance  Display. Thanks  to  Criteo,  advertisers  can  reach  more customers with the same return-on-investment as they get from search marketing.  Every day Criteo generates millions of high-quality leads, through dynamically generated ads which are personalized with
+the products and services that consumers are searching for.
+
+Criteo  is  measured  purely  on  its  post-click  performance  and  offers  a  turnkey  pay-per-click  model
+including extensive real-time bidding tools, category and product level optimization and an in-house
+creative studio.
+
+Criteo partners with over 2200 leading ecommerce brands and operates in 32 countries across 5 continents. For more information, please visit http://www.criteo.com.",company,1,,,,2005-01-01,4,,,0,,,63360000,NASDAQ,CRTO,0,http://www.criteo.com,1201289707,1454026882
+skillshare,organizations/skillshare,organization/skillshare,Skillshare,,"Skillshare is an online learning community to master real-world skills from project-based classes.","Skillshare is an online learning community to master real-world skills from project-based classes. For $10 a month, members can access hundreds of online classes taught by the world’s best experts in creativity, design, business and technology.
+
+Skillshare’s short lessons and hands-on projects make learning simple and convenient, while an engaged community keeps students motivated and inspired. With a focus on learning by doing, Skillshare is reinventing education to unlock the potential of people around the globe. Learn more at www.Skillshare.com.",company,1,,,,2010-11-01,7,,,0,,,10750168,,,0,http://skillshare.com,1289963732,1454007303
+angellist,organizations/angellist,organization/angellist,AngelList,Array,"AngelList is a community of start-ups & investors who make fundraising efficient","AngelList is a community of startups and investors who make fund-raising efficient.
+
+Started by the dudes who do [Venture Hacks](http://venturehacks.com). Meet the [startups](http://angel.co/startups) and [investors](http://angel.co/).
+
+As of March 22 2011, approximately 275 startups and 417 investors have raised money and invested via AngelList.",investor,1,1,,,2010-01-01,7,,,0,,,24100000,,,18,http://angel.co,1295595270,1454199375
+scoop,organizations/scoop,organization/scoop,Scoop,,"Event discovery for iPhone & Android","Scoop helps people discover events that are super relevant to them based on their connections to people, places, and things.",company,1,,,,,,,,0,1,10,0,,,0,http://beta.scoop.fm,1380615331,1422801732
+tokopedia,organizations/tokopedia,organization/tokopedia,Tokopedia,,"Tokopedia is an online marketplace enabling individuals and business owners in Indonesia to open and maintain their online stores for free","Tokopedia is an online marketplace that enables individuals and small & midsize business owner to open and maintain their own online store easily and free, while providing better and safer online shopping experience.",company,,,,,2009-01-01,4,,,0,251,500,100000000,,,0,https://www.tokopedia.com,1370992309,1453594314
+waze,organizations/waze,organization/waze,Waze,,"waze is a free mobile navigation app for smartphones that allows drivers to use live maps, real-time traffic updates, and other road data.","Waze is a social traffic & navigation app based on the world's largest community of drivers sharing real time road info and contributing to the “common good” out there on the road. By simply driving around with Waze open users passively contribute traffic and other road data. Users can take a more active role by sharing road reports on accidents, police traps, or any other hazards along the way, helping to give other users in the area a 'heads-up' about what's to come.",company,1,,,,2007-01-01,4,,,0,,,67000000,,,0,http://waze.com,1253851207,1454271145
+myntra,organizations/myntra,organization/myntra,Myntra,,"Myntra is an Indian e-commerce site for buying branded footwear, apparels and accessories for men and women.","Myntra.com is among the leading e-commerce platforms in India for fashion and lifestyle products. Myntra has tied up with over 500 leading fashion and lifestyle brands in the country such as Nike, Adidas, Puma, Lee, Levis, Wrangler, Arrow, Jealous 21, Biba, Fabindia, US Polo and the likes to offer a wide range in latest branded fashion and lifestyle wear.
+
+Myntra’s value proposition revolves around giving consumers the power and ease of purchasing fashion and lifestyle products online. The company's unique offerings include the largest in-season product catalogue, 100% authentic products, cash on delivery and 30 day return policy making Myntra, the preferred shopping destination in the country.
+
+Myntra is making a conscious effort to bring the power of fashion to its shoppers. Myntra recently developed an in-house application called ‘Style Studio’, a virtual dressing room aimed at making online shopping fun and interactive for shoppers. The company’s fashion property ‘Star N Style’ is an effort to bring youth icons together to build a strong and a direct brand connect with its customers. Style Mynt, Myntra’s very own style blog style offers season’s fashion trends, tips from celebrities and expert recommendations from acclaimed designers and celebrity stylists.
+
+Myntra was started by a group of IIT / IIM graduates in 2007 and is headquartered in Bangalore. The company has been funded by top tier Venture Capital funds like Tiger Global, IndoUS, IDG & Accel Partners.",company,1,,,,2007-01-01,7,,,0,,,158750000,,,0,http://www.myntra.com,1255138544,1454250451
+zomato,organizations/zomato,organization/zomato,Zomato,Array,"Zomato is an online & mobile restaurant search & discovery service providing in-depth information for over 1.4mn restaurants in 23 countries","Zomato is a restaurant search and discovery app and website, providing in-depth information for over 1.4 million restaurants across 23 countries. Zomato is used by consumers globally to discover, rate and review restaurants, as well as create their own personal network of foodies for trusted recommendations.
+
+In addition to restaurant search and discovery, Zomato has expanded its offering to include Online Ordering, Table Reservations, a Whitelabel Platform and a Point-of-Sale system, creating cutting-edge technology to connect restaurant businesses and customers in ways that will revolutionise the restaurant industry.",company,,,,,2008-07-10,7,,,0,1001,5000,223800000,,,0,https://www.zomato.com/,1417474990,1454249348
+wetpaint,organizations/wetpaint,organization/wetpaint,Wetpaint,,"Wetpaint offers an online social publishing platform that helps digital publishers grow their customer base.","Wetpaint is a technology platform company that uses its proprietary state-of-the-art technology and expertise in social media to build and monetize audiences for digital publishers. Wetpaint’s own online property, Wetpaint Entertainment, an entertainment news site that attracts more than 12 million unique visitors monthly and has over 2 million Facebook fans, is a proof point to the company’s success in building and engaging audiences. Media companies can license Wetpaint’s platform which includes a dynamic playbook tailored to their individual needs and comprehensive training. Founded by Internet pioneer Ben Elowitz, and with offices in New York and Seattle, Wetpaint is backed by Accel Partners, the investors behind Facebook.",company,1,,,,2005-10-17,7,,,0,,,39750000,,,0,http://wetpaint-inc.com,1180101087,1453279103
+nationbuilder,organizations/nationbuilder,organization/nationbuilder,NationBuilder,,"NationBuilder is a community organizing software platform that helps people organize and build community-based relationships.","NationBuilder is software for leaders. The company was founded in November 2009 by CEO Jim Gilliam and launched in April 2011. NationBuilder is based in downtown Los Angeles with offices in New York, Washington DC, Vancouver, and London.",company,1,,,,2009-10-31,7,,,0,101,250,14750000,,,0,http://nationbuilder.com,1311720702,1453932469
+infojobs,organizations/infojobs,organization/infojobs,Infojobs,,"Job Portal","InfoJobs is the first privately owned career network in Europe and one of the most popular sites on the Internet. Since its foundation in 1998, the company has improved its users’ experience with new features and services and grown its global community through strategic international expansion. InfoJobs bases its continued success on the principle of helping professionals and companies meet each other.",company,1,,,,,,,,0,,,0,,,0,http://www.infojobs.com,1304534971,1453019852
+songza,organizations/songza,organization/songza,Songza,,"Songza is a music streaming and recommendation service offering curated playlists based on the time of day or a user's mood or activity.","Songza predicts what you're doing or feeling and then serves an expertly-curated playlist designed to make it better. 
+
+Songza offers playlists for improving activities such as waking up, working out, commuting, concentrating, unwinding, entertaining, and sleeping. Songza’s team of music experts is comprised of journalists, critics, DJs, ethnomusicologists and musicians. 
+
+Songza has been named one of the App Store Best of 2012 by Apple, one of Time's Best Android Apps of 2013, and one of Fast Company's 2013 Top 10 Most Innovative Companies in Music.",company,1,,,,2007-11-01,7,,,0,,,6700000,,,0,http://songza.com,1196297737,1453277490
+skift,organizations/skift,organization/skift,Skift,,"Skift is a travel intelligence media company that delivers news, data and services to its readers.","Skift is a travel intelligence media company which will deliver news, data and services to its readers.",company,1,,,,2012-01-30,7,,,0,1,10,1100000,,,0,http://skift.com,1343709884,1453277971
+bigfish,organizations/bigfish,organization/bigfish,BIGFish,,"BIGFish was added to CrunchBase in 2009",,company,1,,,,,,,,0,,,0,,,0,,1250717533,1449654240
+zoosk,organizations/zoosk,organization/zoosk,Zoosk,,"Zoosk is the #1 dating App, offering a truly personalized dating experience through its Behavioral Matchmaking(TM) technology.","*Zoosk.com* is a leading online dating company that learns as you click in order to pair you with singles with whom you're likely to discover mutual attraction. Zoosk’s unique Behavioral Matchmaking™ technology is constantly learning from the actions of over 27 million active members in order to deliver better matches in real time. With the #1 grossing Dating App and a top 20 grossing App overall in the Apple App Store, Zoosk is the market leader in mobile dating.  Available in over 80 countries and translated into 25 languages, Zoosk is a global online dating platform that attracts members of all ages 18+.
+
+Founded in 2007 by Shayan Zadeh and Alex Mehr, the company is based in San Francisco and backed by Canaan Partners, Bessemer Venture Partners, and ATA Ventures.
+
+Zoosk's mission is to empower everyone to lead a more fulfilling love life.",company,1,,,,2007-11-01,7,,,0,,,61600000,,,0,http://www.zoosk.com,1211010628,1453997394

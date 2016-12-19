@@ -1,0 +1,303 @@
+Response for Company: Wal-Mart Stores.
+Status: OK
+
+Response for Company: Exxon Mobil.
+Status: OK
+
+Response for Company: Chevron.
+Status: OK
+
+Response for Company: Berkshire Hathaway.
+Status: OK
+
+Response for Company: Apple.
+Status: OK
+
+Response for Company: Phillips 66.
+Status: OK
+
+Response for Company: General Motors.
+Status: OK
+
+Response for Company: Ford Motor.
+Status: OK
+
+Response for Company: General Electric.
+Status: OK
+
+Response for Company: Valero Energy.
+Status: OK
+
+Response for Company: AT&T.
+Status: OK
+
+Response for Company: CVS Caremark.
+Status: OK
+
+Response for Company: Fannie Mae.
+Status: OK
+
+Response for Company: UnitedHealth Group.
+Status: OK
+
+Response for Company: McKesson.
+Status: OK
+
+Response for Company: Verizon Communications.
+Status: OK
+
+Response for Company: Hewlett-Packard.
+Status: OK
+
+Response for Company: J.P. Morgan Chase & Co..
+Status: OK
+
+Response for Company: Costco Wholesale.
+Status: OK
+
+Response for Company: Express Scripts Holding.
+Status: OK
+
+Response for Company: Bank of America.
+Status: OK
+
+Response for Company: Cardinal Health.
+Status: OK
+
+Response for Company: International Business Machines.
+Status: OK
+
+Response for Company: Kroger.
+Status: OK
+
+Response for Company: Marathon Petroleum.
+Status: OK
+
+Response for Company: Citigroup.
+Status: OK
+
+Response for Company: Archer Daniels Midland.
+Status: OK
+
+Response for Company: AmerisourceBergen.
+Status: OK
+
+Response for Company: Wells Fargo.
+Status: OK
+
+Response for Company: Boeing.
+Status: OK
+
+Response for Company: Procter & Gamble.
+Status: OK
+
+Response for Company: Freddie Mac.
+Status: OK
+
+Response for Company: Home Depot.
+Status: OK
+
+Response for Company: Microsoft.
+Status: OK
+
+Response for Company: Amazon.com.
+Status: OK
+
+Response for Company: Target.
+Status: OK
+
+Response for Company: Walgreen Co..
+Status: OK
+
+Response for Company: WellPoint.
+Status: OK
+
+Response for Company: Johnson & Johnson.
+Status: OK
+
+Response for Company: American International Group.
+Status: OK
+
+Response for Company: State Farm Insurance Cos..
+Status: OK
+
+Response for Company: MetLife.
+Status: OK
+
+Response for Company: PepsiCo.
+Status: OK
+
+Response for Company: Comcast.
+Status: OK
+
+Response for Company: United Technologies.
+Status: OK
+
+Response for Company: Google.
+Status: OK
+
+Response for Company: ConocoPhillips.
+Status: OK
+
+Response for Company: Dow Chemical.
+Status: OK
+
+Response for Company: Caterpillar.
+Status: OK
+
+Response for Company: United Parcel Service.
+Status: OK
+
+Response for Company: Pfizer.
+Status: OK
+
+Response for Company: Lowe's Companies.
+Status: OK
+
+Response for Company: Intel Corporation.
+Status: OK
+
+Response for Company: Energy Transfer Equity, L.P..
+Status: OK
+
+Response for Company: Cisco Systems, Inc..
+Status: OK
+
+Response for Company: Enterprise Products Partners L.P..
+Status: OK
+
+Response for Company: Aetna Inc..
+Status: OK
+
+Response for Company: The Coca-Cola Company.
+Status: OK
+
+Response for Company: Lockheed Martin Corporation.
+Status: OK
+
+Response for Company: Best Buy Co., Inc..
+Status: OK
+
+Response for Company: The Walt Disney Company.
+Status: OK
+
+Response for Company: CHS Inc..
+Status: OK
+
+Response for Company: Sysco Corporation.
+Status: OK
+
+Response for Company: FedEx Corporation.
+Status: OK
+
+Response for Company: Merck & Co., Inc..
+Status: OK
+
+Response for Company: INTL FCStone Inc..
+Status: OK
+
+Response for Company: Safeway Inc..
+Status: OK
+
+Response for Company: Johnson Controls, Inc..
+Status: OK
+
+Response for Company: Ingram Micro Inc..
+Status: OK
+
+Response for Company: Plains GP Holdings, L.P..
+Status: OK
+
+Response for Company: World Fuel Services Corporation.
+Status: OK
+
+Response for Company: Prudential Financial, Inc..
+Status: OK
+
+Response for Company: Humana Inc..
+Status: OK
+
+Response for Company: The Goldman Sachs Group, Inc..
+Status: OK
+
+Response for Company: Tesoro Corporation.
+Status: OK
+
+Response for Company: Liberty Mutual Holding Company Inc..
+Status: OK
+
+Response for Company: Honeywell International Inc..
+Status: OK
+
+Response for Company: United Continental Holdings, Inc..
+Status: OK
+
+Response for Company: HCA Holdings, Inc..
+Status: OK
+
+Response for Company: Deere & Company.
+Status: OK
+
+Response for Company: Delta Air Lines, Inc..
+Status: OK
+
+Response for Company: Oracle Corporation.
+Status: OK
+
+Response for Company: Morgan Stanley.
+Status: OK
+
+Response for Company: Hess Corporation.
+Status: OK
+
+Response for Company: Twenty-First Century Fox, Inc..
+Status: OK
+
+Response for Company: E.I. du Pont de Nemours and Company.
+Status: OK
+
+Response for Company: Sears Holdings Corporation.
+Status: OK
+
+Response for Company: New York Life Insurance Company.
+Status: OK
+
+Response for Company: Mondelez International, Inc..
+Status: OK
+
+Response for Company: American Express Company.
+Status: OK
+
+Response for Company: Nationwide Mutual Insurance Co..
+Status: OK
+
+Response for Company: The Allstate Corporation.
+Status: OK
+
+Response for Company: Tyson Foods, Inc..
+Status: OK
+
+Response for Company: Supervalu Inc..
+Status: OK
+
+Response for Company: TIAA-CREF.
+Status: OK
+
+Response for Company: Massachusetts Mutual Life Insurance Company.
+Status: OK
+
+Response for Company: CIGNA Corporation.
+Status: OK
+
+Response for Company: DIRECTV.
+Status: OK
+
+Response for Company: General Dynamics Corporation.
+Status: OK
+
+Response for Company: Philip Morris International Inc..
+Status: OK
+
+Response for Company: 3M Company.
+Status: OK
+
